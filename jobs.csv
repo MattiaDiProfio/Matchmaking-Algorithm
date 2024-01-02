@@ -1,501 +1,501 @@
-Title, Company, Field, MinScore, Positions
-Medical Assistant Opportunity,Wilson-Henderson,surgery,70,4
-Emergency Medical Technician (EMT) Placement,"Weiss, Norman and Gonzalez",nutrition,79,8
-Medical Assistant Opportunity,Rosario-Palmer,physiotherapy,86,8
-Medical Assistant Opportunity,Simmons-Randall,physiotherapy,76,6
-Registered Nurse Internship,Santiago-Campbell,nutrition,91,6
-Registered Nurse Internship,"Wood, Todd and Douglas",dentistry,91,4
-Pharmacist Placement,Martin-Mcclain,physiotherapy,90,7
-Dental Hygienist Placement,"Tucker, Rhodes and Larsen",nursing,80,6
-Emergency Medical Technician (EMT) Placement,"Lam, Thompson and Martin",immunology,78,9
-Emergency Medical Technician (EMT) Placement,Best Ltd,dentistry,79,4
-Physical Therapist Placement,"Jefferson, Dillon and Kelly",dentistry,83,9
-Physician Opportunity,"Wong, Schroeder and Larson",surgery,74,6
-Medical Assistant Opportunity,"Bruce, James and Smith",immunology,90,8
-Pharmacist Placement,Sanford-Wood,immunology,89,9
-Physical Therapist Placement,Owen and Sons,immunology,93,6
-Pharmacist Placement,"Jefferson, Archer and Brown",surgery,87,6
-Dental Hygienist Placement,"Terry, Franklin and Stokes",immunology,83,4
-Medical Assistant Opportunity,"Phillips, Peterson and Orr",surgery,70,6
-Medical Assistant Opportunity,Stewart-Richards,dentistry,74,5
-Physical Therapist Placement,Wu-Glass,nursing,75,8
-Radiologic Technologist Internship,Landry and Sons,nutrition,91,4
-Medical Laboratory Technician Internship,"Ellison, Smith and Smith",physiotherapy,78,8
-Dental Hygienist Placement,"Edwards, Powell and Mills",nutrition,91,6
-Medical Laboratory Technician Internship,Lawson-Schneider,nursing,94,6
-Physical Therapist Placement,"Moore, Bennett and Wright",dentistry,87,7
-Physician Opportunity,"Wilson, Walker and Graves",nursing,79,3
-Radiologic Technologist Internship,Tapia LLC,nursing,90,4
-Medical Assistant Opportunity,Aguilar-Romero,surgery,71,4
-Medical Assistant Opportunity,"Alvarez, Duran and Williams",surgery,89,6
-Surgeon Opportunity,Mason Group,surgery,90,8
-Surgeon Opportunity,"Cox, Haas and Huffman",immunology,78,6
-Medical Laboratory Technician Internship,Davis Group,nursing,73,9
-Radiologic Technologist Internship,Rogers-Clark,dentistry,70,10
-Radiologic Technologist Internship,"Taylor, Brown and Hoffman",physiotherapy,95,8
-Emergency Medical Technician (EMT) Placement,Anderson-Perry,dentistry,75,8
-Surgeon Opportunity,Walker-Lee,immunology,93,7
-Registered Nurse Internship,Duncan PLC,nursing,93,8
-Medical Laboratory Technician Internship,Campbell and Sons,dentistry,75,8
-Pharmacist Placement,"Gentry, Robinson and Jackson",physiotherapy,76,3
-Dental Hygienist Placement,"Suarez, Howard and Hicks",nutrition,85,4
-Pharmacist Placement,"Tucker, Hughes and Schmidt",surgery,91,7
-Medical Assistant Opportunity,"Wallace, Johnson and Barnes",nutrition,83,7
-Physician Opportunity,Ramirez-Brown,immunology,95,5
-Physician Opportunity,Moore-Manning,surgery,94,10
-Registered Nurse Internship,"Smith, Kelley and Waters",surgery,76,7
-Physician Opportunity,Thornton-Perkins,surgery,86,9
-Physical Therapist Placement,"Olsen, Kent and Brewer",nutrition,74,6
-Registered Nurse Internship,Mitchell-Greer,immunology,77,4
-Physician Opportunity,"Bailey, Wright and Meyer",nursing,89,9
-Registered Nurse Internship,Perez-Tran,dentistry,74,9
-Radiologic Technologist Internship,"Nichols, Baker and Williams",nursing,84,4
-Surgeon Opportunity,Hill-Brown,physiotherapy,79,5
-Medical Assistant Opportunity,Barrett Ltd,surgery,71,7
-Surgeon Opportunity,Douglas Ltd,surgery,78,4
-Pharmacist Placement,"Williams, Robinson and Collins",immunology,80,7
-Dental Hygienist Placement,Bush and Sons,physiotherapy,81,6
-Medical Laboratory Technician Internship,Mcdonald-Anderson,surgery,91,4
-Medical Laboratory Technician Internship,"Berg, Sloan and Henderson",surgery,76,4
-Pharmacist Placement,"Mathis, Rice and Gardner",nutrition,93,10
-Medical Assistant Opportunity,"Gregory, Ramos and Berry",dentistry,87,6
-Physical Therapist Placement,Dean-Padilla,dentistry,88,10
-Physician Opportunity,"Oliver, Neal and Smith",nursing,86,7
-Radiologic Technologist Internship,"Hunter, Anderson and Spencer",nursing,72,3
-Physical Therapist Placement,Manning-Banks,dentistry,95,3
-Physical Therapist Placement,May-Robinson,dentistry,83,3
-Pharmacist Placement,"Miranda, Russell and Lopez",surgery,88,6
-Registered Nurse Internship,Robinson Inc,physiotherapy,70,4
-Registered Nurse Internship,Townsend Ltd,nutrition,95,7
-Emergency Medical Technician (EMT) Placement,Green and Sons,nursing,73,9
-Surgeon Opportunity,Ward-Hester,dentistry,81,10
-Registered Nurse Internship,"Levy, Reeves and Williams",nutrition,85,6
-Dental Hygienist Placement,Bush-Macias,nutrition,82,7
-Medical Laboratory Technician Internship,Taylor and Sons,nursing,77,9
-Dental Hygienist Placement,"Cunningham, Lozano and Wood",nutrition,75,10
-Surgeon Opportunity,Collins Group,nursing,82,10
-Medical Laboratory Technician Internship,Holloway-Smith,dentistry,75,3
-Emergency Medical Technician (EMT) Placement,"Ward, Kirby and Huynh",physiotherapy,89,5
-Pharmacist Placement,White-Sandoval,surgery,90,9
-Surgeon Opportunity,Smith-Schmidt,nutrition,71,9
-Dental Hygienist Placement,Moore-Hunter,immunology,89,5
-Dental Hygienist Placement,"Sullivan, Morgan and James",dentistry,84,6
-Physician Opportunity,Valencia-Turner,nutrition,77,10
-Physician Opportunity,Osborne-Smith,physiotherapy,70,5
-Physician Opportunity,Hernandez Ltd,dentistry,95,5
-Radiologic Technologist Internship,"Kerr, Ford and Vasquez",dentistry,93,5
-Pharmacist Placement,Johnson Inc,surgery,88,8
-Emergency Medical Technician (EMT) Placement,Green-Wright,dentistry,83,3
-Emergency Medical Technician (EMT) Placement,Wood Group,immunology,84,8
-Medical Laboratory Technician Internship,"Morris, Mcgrath and Sawyer",surgery,83,4
-Surgeon Opportunity,Brown PLC,surgery,81,3
-Emergency Medical Technician (EMT) Placement,Nelson-Park,nursing,73,9
-Registered Nurse Internship,"Clark, Kidd and Smith",surgery,70,4
-Physician Opportunity,Anderson Ltd,nursing,87,9
-Medical Assistant Opportunity,Cooper Group,immunology,70,10
-Medical Laboratory Technician Internship,Henderson-Sharp,dentistry,77,5
-Radiologic Technologist Internship,Griffin-Costa,nutrition,80,6
-Physician Opportunity,Crosby-Clark,nursing,72,4
-Surgeon Opportunity,"Marshall, Terry and Carr",immunology,81,6
-Medical Assistant Opportunity,"Rodriguez, Greene and Ryan",surgery,82,8
-Emergency Medical Technician (EMT) Placement,Tran-Huerta,physiotherapy,87,8
-Pharmacist Placement,Brown-Wright,dentistry,74,3
-Medical Laboratory Technician Internship,"Curry, Wiley and Evans",surgery,73,9
-Radiologic Technologist Internship,"Smith, Ramirez and Wright",surgery,70,4
-Medical Laboratory Technician Internship,King-White,immunology,77,5
-Dental Hygienist Placement,"Strong, Williams and Quinn",immunology,83,5
-Registered Nurse Internship,"Mitchell, Townsend and Orozco",dentistry,79,10
-Emergency Medical Technician (EMT) Placement,"Choi, Smith and Walker",surgery,76,8
-Physical Therapist Placement,Molina PLC,nursing,88,10
-Medical Assistant Opportunity,Smith Inc,nutrition,93,6
-Medical Assistant Opportunity,"Miles, Valdez and Thompson",immunology,71,8
-Physical Therapist Placement,"Brock, Alvarado and Richardson",nutrition,79,7
-Physical Therapist Placement,"Vincent, Jones and Smith",physiotherapy,89,9
-Medical Assistant Opportunity,Morales-Cohen,dentistry,81,5
-Medical Laboratory Technician Internship,Chan Group,nursing,83,4
-Surgeon Opportunity,"Allen, Yates and Preston",surgery,83,4
-Medical Laboratory Technician Internship,"Davis, Parks and Riley",immunology,74,5
-Physician Opportunity,"Nelson, Castillo and Hines",nursing,84,6
-Registered Nurse Internship,Coffey-Wilson,dentistry,79,9
-Radiologic Technologist Internship,Gonzalez LLC,physiotherapy,86,10
-Radiologic Technologist Internship,"Walker, Cox and Brady",physiotherapy,83,9
-Registered Nurse Internship,Davis-Potts,nutrition,70,10
-Emergency Medical Technician (EMT) Placement,"Barrett, Gonzalez and Hopkins",physiotherapy,77,3
-Physician Opportunity,Grimes LLC,nursing,85,4
-Pharmacist Placement,Collier and Sons,surgery,88,5
-Surgeon Opportunity,"Robertson, Garrett and Stone",nursing,89,10
-Medical Assistant Opportunity,Hall-Hinton,nutrition,95,7
-Emergency Medical Technician (EMT) Placement,Christensen-Carlson,nutrition,88,3
-Medical Assistant Opportunity,"Stephens, Myers and Ross",nursing,72,10
-Surgeon Opportunity,Navarro-Peterson,nutrition,94,8
-Physical Therapist Placement,"Herman, Pitts and Wright",nutrition,73,4
-Emergency Medical Technician (EMT) Placement,"Rogers, Herrera and Evans",dentistry,73,8
-Registered Nurse Internship,"Fleming, Martinez and Contreras",surgery,75,4
-Medical Assistant Opportunity,Wilson Ltd,nursing,90,5
-Registered Nurse Internship,Willis PLC,physiotherapy,79,8
-Registered Nurse Internship,Schultz Inc,nutrition,71,9
-Radiologic Technologist Internship,Davis Group,nutrition,74,5
-Surgeon Opportunity,"Sherman, Meyer and Travis",physiotherapy,85,4
-Registered Nurse Internship,Garcia PLC,dentistry,84,4
-Dental Hygienist Placement,Wiggins Group,nutrition,77,10
-Emergency Medical Technician (EMT) Placement,Morris Inc,dentistry,81,3
-Surgeon Opportunity,Barnett LLC,immunology,75,5
-Pharmacist Placement,Gordon Ltd,nursing,94,6
-Registered Nurse Internship,Hill-Pope,physiotherapy,91,6
-Physical Therapist Placement,Rodriguez-Aguilar,immunology,71,5
-Emergency Medical Technician (EMT) Placement,"Manning, Hendrix and Prince",nutrition,86,5
-Pharmacist Placement,"Mcfarland, Joseph and Allen",nutrition,94,3
-Pharmacist Placement,"Herman, George and Tucker",surgery,89,3
-Dental Hygienist Placement,"Kline, Perez and Reynolds",physiotherapy,76,3
-Physical Therapist Placement,Cruz-Robertson,physiotherapy,94,4
-Medical Assistant Opportunity,Delgado-Carroll,immunology,76,10
-Physician Opportunity,Vega Group,surgery,81,6
-Dental Hygienist Placement,Petersen-Ryan,physiotherapy,89,4
-Surgeon Opportunity,"Flowers, Bell and Mccarthy",surgery,89,6
-Dental Hygienist Placement,Richardson Group,dentistry,87,7
-Dental Hygienist Placement,"Holmes, Black and King",immunology,82,4
-Physical Therapist Placement,"Williams, Browning and Rodriguez",nutrition,91,9
-Dental Hygienist Placement,Cherry Group,dentistry,77,10
-Radiologic Technologist Internship,Patrick Group,dentistry,83,5
-Physical Therapist Placement,"West, Jenkins and Harris",surgery,90,7
-Registered Nurse Internship,Johnson-Thompson,dentistry,83,7
-Dental Hygienist Placement,"Phillips, Rivera and Edwards",nursing,86,5
-Medical Assistant Opportunity,"Gaines, Donaldson and Walker",surgery,89,4
-Emergency Medical Technician (EMT) Placement,"Harper, Hall and Gutierrez",nutrition,91,4
-Physical Therapist Placement,Cox-Medina,dentistry,95,4
-Physician Opportunity,Villegas Inc,nutrition,80,8
-Medical Laboratory Technician Internship,Jones-Bennett,immunology,83,9
-Medical Laboratory Technician Internship,Ferrell-Raymond,surgery,84,5
-Physician Opportunity,Baird Inc,dentistry,71,6
-Dental Hygienist Placement,French-Kelly,immunology,95,4
-Emergency Medical Technician (EMT) Placement,Stephenson-Jimenez,nursing,91,4
-Registered Nurse Internship,Leonard-Obrien,physiotherapy,77,10
-Registered Nurse Internship,"Smith, Mcconnell and Preston",dentistry,72,9
-Radiologic Technologist Internship,Rodriguez Group,nutrition,91,10
-Medical Laboratory Technician Internship,Pena Group,nursing,91,3
-Medical Assistant Opportunity,Davis Inc,physiotherapy,74,5
-Medical Assistant Opportunity,Herring LLC,immunology,78,7
-Pharmacist Placement,"Jones, Trujillo and Allen",nutrition,76,7
-Medical Assistant Opportunity,"Green, Jones and Zhang",surgery,92,3
-Emergency Medical Technician (EMT) Placement,Barber-Mendoza,dentistry,74,10
-Surgeon Opportunity,Goodman-Black,dentistry,82,5
-Radiologic Technologist Internship,Jackson-Ryan,nursing,73,10
-Medical Laboratory Technician Internship,"Collins, Gibson and Romero",dentistry,82,4
-Emergency Medical Technician (EMT) Placement,Guerra and Sons,dentistry,94,5
-Registered Nurse Internship,Brandt LLC,nursing,75,8
-Medical Assistant Opportunity,"Lozano, Bell and Reeves",nutrition,81,8
-Physical Therapist Placement,Lara-Bowman,immunology,71,10
-Pharmacist Placement,"Callahan, Wilson and Simpson",surgery,75,9
-Emergency Medical Technician (EMT) Placement,"Hardy, Estrada and Thornton",nutrition,85,9
-Dental Hygienist Placement,"York, Hopkins and Cook",dentistry,71,8
-Surgeon Opportunity,Reed Inc,nutrition,83,7
-Pharmacist Placement,Reyes PLC,nursing,82,4
-Medical Laboratory Technician Internship,Sullivan Group,dentistry,84,8
-Surgeon Opportunity,"Williams, Hart and Bowen",nutrition,92,5
-Medical Assistant Opportunity,"Lane, Jones and Carlson",surgery,77,6
-Medical Laboratory Technician Internship,Garcia-Graham,surgery,74,9
-Medical Assistant Opportunity,Todd LLC,surgery,79,5
-Physical Therapist Placement,Lee and Sons,nursing,78,5
-Registered Nurse Internship,"Nichols, Garcia and Burgess",immunology,93,7
-Medical Laboratory Technician Internship,Hall-Villarreal,dentistry,87,8
-Radiologic Technologist Internship,Ballard PLC,nursing,70,7
-Registered Nurse Internship,Davis-Melendez,nutrition,89,5
-Registered Nurse Internship,"Powell, Kerr and Briggs",surgery,79,3
-Pharmacist Placement,Ramos LLC,immunology,84,3
-Medical Assistant Opportunity,Price-Barr,surgery,94,3
-Registered Nurse Internship,"Stevens, Brooks and Ryan",surgery,92,4
-Medical Laboratory Technician Internship,Williams-Wells,nursing,73,10
-Emergency Medical Technician (EMT) Placement,Chen Group,physiotherapy,78,8
-Medical Laboratory Technician Internship,Cole Inc,dentistry,85,10
-Registered Nurse Internship,"Chang, Anderson and Hunter",surgery,81,3
-Dental Hygienist Placement,"Gonzalez, Davis and Gallagher",physiotherapy,77,8
-Surgeon Opportunity,"Castillo, Dunn and Kirk",surgery,81,6
-Medical Assistant Opportunity,Smith-Sutton,dentistry,85,7
-Emergency Medical Technician (EMT) Placement,"Hoover, Nguyen and Vincent",dentistry,78,5
-Medical Assistant Opportunity,"Johnston, Johnson and Bryant",nursing,76,6
-Surgeon Opportunity,Mcneil Group,surgery,72,3
-Pharmacist Placement,Case and Sons,nursing,76,4
-Physical Therapist Placement,Baldwin Ltd,nutrition,74,4
-Surgeon Opportunity,Griffin Group,immunology,92,7
-Registered Nurse Internship,"Moses, Thomas and Hayes",dentistry,84,10
-Pharmacist Placement,"Young, Fields and Lewis",surgery,84,6
-Physician Opportunity,Brown-Johnson,physiotherapy,90,5
-Medical Assistant Opportunity,Guerrero-Butler,dentistry,80,10
-Medical Laboratory Technician Internship,"Graves, Grant and Arnold",nursing,88,7
-Registered Nurse Internship,"Thomas, Schwartz and Allen",nutrition,73,8
-Emergency Medical Technician (EMT) Placement,Ford Group,nutrition,71,6
-Medical Laboratory Technician Internship,Kennedy-Allen,immunology,87,10
-Emergency Medical Technician (EMT) Placement,Hensley Inc,physiotherapy,86,8
-Medical Assistant Opportunity,Jordan Inc,nursing,78,9
-Medical Laboratory Technician Internship,"Wright, Cantu and Odonnell",nursing,88,8
-Physical Therapist Placement,Hall LLC,immunology,85,9
-Radiologic Technologist Internship,Lynn Inc,physiotherapy,88,10
-Medical Laboratory Technician Internship,Duke-Parker,physiotherapy,86,8
-Medical Assistant Opportunity,Russell LLC,immunology,72,8
-Radiologic Technologist Internship,"Romero, Charles and White",physiotherapy,93,8
-Surgeon Opportunity,Lamb-Jones,physiotherapy,75,3
-Pharmacist Placement,Fleming Ltd,physiotherapy,76,5
-Dental Hygienist Placement,Fox and Sons,nursing,71,6
-Physical Therapist Placement,Bailey-Pratt,surgery,95,7
-Registered Nurse Internship,"Larson, Ingram and Navarro",physiotherapy,86,3
-Dental Hygienist Placement,Miller Inc,dentistry,70,8
-Registered Nurse Internship,"Faulkner, Byrd and Wilson",immunology,89,7
-Physician Opportunity,Gilmore-Walker,surgery,73,9
-Registered Nurse Internship,Bender Ltd,immunology,77,3
-Medical Assistant Opportunity,Palmer-Giles,physiotherapy,75,6
-Emergency Medical Technician (EMT) Placement,"Johnson, Dillon and Thomas",surgery,90,10
-Dental Hygienist Placement,Jones LLC,physiotherapy,84,9
-Physical Therapist Placement,"Gonzalez, Guerra and Hill",nutrition,90,6
-Medical Assistant Opportunity,"Powell, Wong and Bridges",nursing,70,6
-Pharmacist Placement,"Le, Rodriguez and Thomas",physiotherapy,83,3
-Medical Assistant Opportunity,"Morris, Prince and Miller",nutrition,77,3
-Pharmacist Placement,"Merritt, Haynes and Meyer",physiotherapy,80,8
-Medical Laboratory Technician Internship,Fisher-Molina,immunology,86,3
-Emergency Medical Technician (EMT) Placement,Contreras Group,physiotherapy,95,8
-Medical Laboratory Technician Internship,"Gonzalez, Carroll and Martin",dentistry,78,6
-Emergency Medical Technician (EMT) Placement,Cole-Powell,surgery,93,8
-Pharmacist Placement,"Kelly, Goodman and Evans",physiotherapy,89,8
-Physician Opportunity,Leon Inc,surgery,88,3
-Pharmacist Placement,Miles LLC,immunology,77,5
-Physical Therapist Placement,Hayes Ltd,nursing,87,3
-Medical Assistant Opportunity,Richmond-Ramirez,physiotherapy,89,9
-Surgeon Opportunity,"Moore, Graham and Saunders",physiotherapy,89,10
-Registered Nurse Internship,Franklin-Bryant,physiotherapy,91,5
-Medical Assistant Opportunity,Richardson LLC,nutrition,87,3
-Emergency Medical Technician (EMT) Placement,Munoz Inc,dentistry,86,7
-Registered Nurse Internship,Bennett-Jacobson,physiotherapy,77,6
-Physician Opportunity,Romero-Martin,dentistry,76,4
-Dental Hygienist Placement,Wright-Miller,dentistry,74,6
-Physician Opportunity,"Knight, Pratt and Ramos",dentistry,91,8
-Surgeon Opportunity,"Adams, Bradshaw and Strong",immunology,77,3
-Medical Assistant Opportunity,Humphrey-Hall,physiotherapy,88,6
-Registered Nurse Internship,Mitchell-Chapman,dentistry,90,5
-Radiologic Technologist Internship,Pratt-Vance,surgery,87,5
-Dental Hygienist Placement,Johnson-Anderson,nursing,90,3
-Dental Hygienist Placement,"Ford, Conner and Ford",nursing,77,3
-Pharmacist Placement,"Jackson, Rich and Torres",immunology,83,7
-Physician Opportunity,"Arellano, Morales and Tate",nursing,79,10
-Physician Opportunity,Castillo Inc,nutrition,81,7
-Radiologic Technologist Internship,Stewart Inc,nutrition,77,7
-Radiologic Technologist Internship,Brooks Inc,nursing,78,7
-Emergency Medical Technician (EMT) Placement,"Montes, Kirk and Warren",immunology,73,4
-Radiologic Technologist Internship,Guzman-Sullivan,surgery,89,7
-Emergency Medical Technician (EMT) Placement,Snyder-Ibarra,dentistry,93,10
-Registered Nurse Internship,Sutton-Jordan,physiotherapy,92,4
-Registered Nurse Internship,Howell-Barr,dentistry,74,4
-Surgeon Opportunity,Watson Inc,surgery,92,3
-Physician Opportunity,Anderson-Olson,immunology,72,3
-Medical Assistant Opportunity,Griffin PLC,nutrition,93,9
-Dental Hygienist Placement,Daniels PLC,dentistry,70,7
-Emergency Medical Technician (EMT) Placement,Davis Inc,nutrition,83,3
-Medical Assistant Opportunity,"Coleman, Green and Baker",dentistry,83,6
-Physician Opportunity,Smith LLC,nutrition,84,6
-Radiologic Technologist Internship,Valentine-Clark,nutrition,83,5
-Physician Opportunity,"Keith, Washington and Green",nutrition,76,4
-Emergency Medical Technician (EMT) Placement,Travis Ltd,physiotherapy,86,8
-Medical Laboratory Technician Internship,"Mcfarland, White and Hicks",immunology,87,7
-Medical Assistant Opportunity,"Webb, Weber and Olsen",physiotherapy,91,6
-Radiologic Technologist Internship,Kim and Sons,nutrition,83,3
-Physical Therapist Placement,Chase Ltd,dentistry,77,3
-Physical Therapist Placement,Perez-Thomas,physiotherapy,72,3
-Physical Therapist Placement,Brown Inc,surgery,73,4
-Dental Hygienist Placement,Huffman-Wall,dentistry,71,5
-Registered Nurse Internship,"Newman, Anderson and Donovan",nutrition,89,6
-Physical Therapist Placement,"Davis, Dominguez and Collins",dentistry,73,8
-Physical Therapist Placement,Vaughn-Mckenzie,nutrition,76,6
-Registered Nurse Internship,"Johnson, Vance and Dunn",dentistry,74,5
-Physician Opportunity,"Johnson, Hess and Mitchell",dentistry,86,4
-Dental Hygienist Placement,"Collins, Wright and Brown",nursing,86,5
-Radiologic Technologist Internship,"Sanchez, Fischer and Lewis",physiotherapy,85,7
-Radiologic Technologist Internship,Gonzalez Group,physiotherapy,86,4
-Physical Therapist Placement,"Peterson, Sanchez and Phillips",dentistry,91,5
-Physical Therapist Placement,"Lowe, Diaz and Mayo",nursing,74,8
-Physician Opportunity,"Lopez, Roberts and Riggs",nursing,80,7
-Dental Hygienist Placement,Johnson PLC,dentistry,79,9
-Medical Laboratory Technician Internship,Gordon-Foley,nutrition,81,5
-Physician Opportunity,Smith-Dalton,immunology,92,9
-Medical Laboratory Technician Internship,Dunn and Sons,nursing,86,4
-Registered Nurse Internship,Sweeney PLC,surgery,95,3
-Physician Opportunity,Simmons LLC,physiotherapy,74,4
-Medical Laboratory Technician Internship,"Sims, Ross and Smith",dentistry,94,3
-Surgeon Opportunity,"Mathis, Morrison and Camacho",nutrition,89,3
-Surgeon Opportunity,"Harris, Wilkinson and Kim",nutrition,83,5
-Emergency Medical Technician (EMT) Placement,"Reed, Ibarra and Cannon",nutrition,83,3
-Physician Opportunity,"Brown, Perkins and Bowman",dentistry,77,4
-Dental Hygienist Placement,Gibson Inc,nutrition,86,7
-Dental Hygienist Placement,Peck-Castro,immunology,77,3
-Physician Opportunity,Barton PLC,surgery,85,10
-Physician Opportunity,Martin-Miller,physiotherapy,88,5
-Medical Assistant Opportunity,"Baldwin, Huff and Alexander",physiotherapy,85,9
-Medical Assistant Opportunity,"Sanchez, Mcgee and Pierce",dentistry,89,8
-Medical Laboratory Technician Internship,Turner Inc,dentistry,72,8
-Physical Therapist Placement,Oconnor-Turner,dentistry,73,4
-Surgeon Opportunity,"Patterson, Williams and Shaw",surgery,91,8
-Surgeon Opportunity,Ortiz-James,physiotherapy,77,3
-Medical Laboratory Technician Internship,"Weber, Jones and Moran",nursing,90,3
-Physician Opportunity,Jackson Ltd,nutrition,79,4
-Medical Assistant Opportunity,Hughes and Sons,dentistry,94,6
-Medical Assistant Opportunity,Martinez-Rogers,immunology,75,5
-Surgeon Opportunity,Rodriguez PLC,surgery,70,8
-Physical Therapist Placement,"Allen, Anderson and Andrews",immunology,71,7
-Physical Therapist Placement,Shelton Ltd,immunology,70,5
-Radiologic Technologist Internship,Saunders and Sons,dentistry,88,9
-Physician Opportunity,Mullins-Walker,immunology,82,10
-Medical Laboratory Technician Internship,"Williams, Ball and Hall",immunology,76,6
-Surgeon Opportunity,"Perez, Lewis and Stevens",surgery,72,7
-Medical Assistant Opportunity,"Bailey, Flores and Walker",nutrition,89,8
-Medical Assistant Opportunity,Holland-Cook,dentistry,89,8
-Registered Nurse Internship,"Campbell, Duncan and Leach",dentistry,80,5
-Registered Nurse Internship,"Garcia, James and Greene",surgery,87,9
-Pharmacist Placement,Davis-Hunt,nutrition,82,10
-Medical Laboratory Technician Internship,"Martinez, Ritter and Marshall",nursing,91,7
-Pharmacist Placement,Yates Group,surgery,91,4
-Pharmacist Placement,"Lopez, Mcdaniel and Cooper",surgery,75,8
-Radiologic Technologist Internship,Nolan-Williams,nursing,94,4
-Surgeon Opportunity,Jones LLC,surgery,93,3
-Medical Laboratory Technician Internship,Acosta-Lane,physiotherapy,87,3
-Medical Laboratory Technician Internship,Clark-Wiley,surgery,78,6
-Pharmacist Placement,"Thomas, Pierce and Wang",nutrition,81,10
-Dental Hygienist Placement,"Brown, Hester and Perez",nutrition,74,8
-Pharmacist Placement,"Torres, Guzman and Armstrong",immunology,74,9
-Surgeon Opportunity,Ramsey and Sons,immunology,71,10
-Physician Opportunity,"May, Cardenas and Conley",immunology,90,5
-Registered Nurse Internship,"Lee, Allen and Johnson",dentistry,70,6
-Medical Assistant Opportunity,Dominguez PLC,immunology,86,9
-Medical Laboratory Technician Internship,"Smith, Rich and Bartlett",nursing,72,9
-Dental Hygienist Placement,Young-Reid,dentistry,72,7
-Emergency Medical Technician (EMT) Placement,Wilkinson-Carpenter,physiotherapy,71,10
-Dental Hygienist Placement,Gomez and Sons,dentistry,78,7
-Emergency Medical Technician (EMT) Placement,"Espinoza, Myers and Berry",immunology,92,9
-Emergency Medical Technician (EMT) Placement,Hodges LLC,dentistry,83,6
-Radiologic Technologist Internship,"Landry, Gillespie and Campos",surgery,89,4
-Registered Nurse Internship,Weber-Mcpherson,dentistry,90,8
-Medical Laboratory Technician Internship,Perez-Gates,nutrition,86,3
-Physician Opportunity,Lee Ltd,nutrition,86,6
-Medical Assistant Opportunity,"Adams, Hatfield and Young",physiotherapy,88,6
-Surgeon Opportunity,"Vargas, Owen and Gilbert",nursing,87,6
-Physical Therapist Placement,"Mccann, Norris and Moon",immunology,87,4
-Pharmacist Placement,Horton Ltd,nutrition,83,9
-Registered Nurse Internship,"Porter, Robinson and Byrd",nursing,85,3
-Medical Assistant Opportunity,Merritt LLC,physiotherapy,71,5
-Physical Therapist Placement,Simmons Inc,immunology,78,4
-Emergency Medical Technician (EMT) Placement,"Morgan, Chavez and Anderson",nursing,70,4
-Medical Assistant Opportunity,Coffey PLC,physiotherapy,88,7
-Medical Assistant Opportunity,"Curry, Reese and King",nutrition,95,8
-Surgeon Opportunity,Munoz PLC,nursing,95,8
-Radiologic Technologist Internship,Moore PLC,nutrition,70,5
-Physical Therapist Placement,Cowan Inc,dentistry,95,3
-Medical Assistant Opportunity,Leonard Ltd,nursing,84,6
-Physician Opportunity,"Lewis, Patel and Bell",surgery,88,10
-Emergency Medical Technician (EMT) Placement,Berger-Carrillo,nursing,72,4
-Physician Opportunity,"Thornton, Taylor and Johnson",immunology,78,3
-Medical Assistant Opportunity,Wise PLC,nursing,76,4
-Medical Laboratory Technician Internship,Campbell PLC,surgery,82,10
-Physician Opportunity,Adams Group,surgery,94,5
-Pharmacist Placement,Dunlap PLC,immunology,70,8
-Registered Nurse Internship,Perry-Stewart,physiotherapy,71,3
-Registered Nurse Internship,Luna-Mccall,dentistry,92,7
-Dental Hygienist Placement,"Davis, Carter and Levy",dentistry,84,10
-Medical Assistant Opportunity,"Hill, Maxwell and Price",dentistry,86,8
-Physical Therapist Placement,Clark Ltd,immunology,93,8
-Radiologic Technologist Internship,Sanders PLC,surgery,81,6
-Medical Laboratory Technician Internship,"Spence, Green and Mccann",physiotherapy,82,7
-Physician Opportunity,Harris LLC,physiotherapy,76,5
-Medical Laboratory Technician Internship,Adkins-Rodriguez,nursing,81,5
-Physician Opportunity,Young-Delacruz,immunology,88,3
-Radiologic Technologist Internship,"Garcia, Rogers and Smith",dentistry,91,8
-Radiologic Technologist Internship,"Henderson, Jackson and May",surgery,84,8
-Registered Nurse Internship,Oneill-Klein,surgery,77,10
-Physician Opportunity,Pena PLC,surgery,86,5
-Emergency Medical Technician (EMT) Placement,Haynes Inc,nutrition,84,10
-Physician Opportunity,Dorsey-Porter,nursing,70,4
-Physical Therapist Placement,Holland Group,physiotherapy,83,6
-Registered Nurse Internship,Alexander Inc,nursing,89,3
-Dental Hygienist Placement,Burgess Group,dentistry,89,4
-Emergency Medical Technician (EMT) Placement,Zavala-Walker,immunology,95,4
-Medical Laboratory Technician Internship,"Wiggins, Black and Roman",nursing,81,5
-Radiologic Technologist Internship,Douglas Group,immunology,83,7
-Physical Therapist Placement,Williams-Mcdonald,surgery,87,7
-Physical Therapist Placement,"Merritt, Dunn and Aguirre",physiotherapy,85,10
-Surgeon Opportunity,"Dougherty, Williams and Jefferson",nursing,86,3
-Pharmacist Placement,Love PLC,surgery,84,5
-Physical Therapist Placement,Edwards-Pearson,nutrition,81,8
-Physical Therapist Placement,"Mueller, Simpson and Torres",nutrition,81,8
-Radiologic Technologist Internship,"Hurley, Morris and Daniel",immunology,73,4
-Emergency Medical Technician (EMT) Placement,Lee-Rodriguez,nursing,77,7
-Medical Assistant Opportunity,Gonzalez PLC,physiotherapy,71,5
-Medical Laboratory Technician Internship,"Weiss, Cowan and Mcdonald",nutrition,95,4
-Physical Therapist Placement,Miller-Williamson,nursing,86,3
-Dental Hygienist Placement,James-Andrade,immunology,75,9
-Emergency Medical Technician (EMT) Placement,Peters-Stevens,physiotherapy,83,5
-Emergency Medical Technician (EMT) Placement,Brown-Salinas,physiotherapy,87,10
-Medical Laboratory Technician Internship,Griffith-Franklin,dentistry,78,5
-Dental Hygienist Placement,Finley-Knight,surgery,72,4
-Physical Therapist Placement,Hill Group,physiotherapy,86,9
-Physical Therapist Placement,"James, Bishop and Thompson",nutrition,88,5
-Emergency Medical Technician (EMT) Placement,Moses-May,nutrition,87,7
-Dental Hygienist Placement,Zimmerman-Irwin,dentistry,73,10
-Medical Laboratory Technician Internship,Williams LLC,immunology,92,4
-Dental Hygienist Placement,Porter LLC,nutrition,83,7
-Registered Nurse Internship,Webb-Murray,dentistry,76,10
-Physical Therapist Placement,Ferguson PLC,immunology,82,4
-Medical Assistant Opportunity,Oconnell-Taylor,physiotherapy,73,10
-Surgeon Opportunity,Salazar-Donovan,surgery,76,7
-Physician Opportunity,Swanson Inc,nutrition,88,4
-Emergency Medical Technician (EMT) Placement,Garcia LLC,surgery,84,10
-Medical Laboratory Technician Internship,Martinez-Walters,nursing,85,5
-Emergency Medical Technician (EMT) Placement,"Herman, Walker and Joseph",dentistry,82,8
-Emergency Medical Technician (EMT) Placement,Horne Group,surgery,75,9
-Dental Hygienist Placement,"Davies, Ortiz and Howard",physiotherapy,70,4
-Dental Hygienist Placement,Hansen-Thomas,nursing,76,3
-Radiologic Technologist Internship,"Wilkins, Richardson and Scott",nursing,95,10
-Physician Opportunity,"Lester, Davidson and Pruitt",nutrition,95,5
-Pharmacist Placement,Stafford PLC,nursing,78,9
-Pharmacist Placement,Benson Group,surgery,92,7
-Dental Hygienist Placement,Adams Group,surgery,75,6
-Medical Laboratory Technician Internship,"Kennedy, Howard and Morris",immunology,92,8
-Emergency Medical Technician (EMT) Placement,Scott-Oliver,surgery,77,5
-Registered Nurse Internship,Ingram Group,physiotherapy,88,9
-Medical Assistant Opportunity,Boyer LLC,immunology,78,9
-Registered Nurse Internship,Nichols-Petty,physiotherapy,88,10
-Physical Therapist Placement,Gilbert-Delacruz,surgery,88,3
-Physical Therapist Placement,"Ingram, Donaldson and Lawrence",dentistry,79,10
-Medical Assistant Opportunity,Wilson-Carroll,nutrition,89,4
-Emergency Medical Technician (EMT) Placement,Brown and Sons,surgery,93,8
-Dental Hygienist Placement,"Johnson, Thomas and Jones",immunology,71,10
-Physical Therapist Placement,Jones-Estrada,nursing,74,10
-Emergency Medical Technician (EMT) Placement,Franklin-Mueller,surgery,72,8
-Dental Hygienist Placement,"Olsen, Price and Miller",nursing,76,4
-Radiologic Technologist Internship,Ayala LLC,surgery,76,8
-Surgeon Opportunity,"Stokes, Thompson and Jackson",surgery,75,4
-Registered Nurse Internship,Davis and Sons,nursing,83,5
-Emergency Medical Technician (EMT) Placement,Odonnell-Cooper,nutrition,87,8
-Physical Therapist Placement,Crosby Group,dentistry,77,4
-Registered Nurse Internship,"Bailey, Bell and Mccarthy",physiotherapy,79,3
-Physician Opportunity,"Wright, Cook and Carrillo",physiotherapy,70,7
-Dental Hygienist Placement,"Mills, Brandt and Dennis",dentistry,71,5
-Registered Nurse Internship,Oliver-Howard,nutrition,73,8
-Emergency Medical Technician (EMT) Placement,Bowman-Williams,dentistry,75,7
-Registered Nurse Internship,Hays PLC,nutrition,87,8
-Physician Opportunity,Martin-Manning,physiotherapy,73,8
-Medical Laboratory Technician Internship,Espinoza Ltd,nutrition,90,7
-Emergency Medical Technician (EMT) Placement,Taylor LLC,immunology,93,3
-Surgeon Opportunity,"Harvey, Jacobs and Wagner",nutrition,79,3
-Pharmacist Placement,Powell-Martinez,nutrition,83,5
-Registered Nurse Internship,"Anderson, Walker and Maldonado",immunology,79,3
-Medical Assistant Opportunity,Myers-Wright,dentistry,84,7
-Medical Assistant Opportunity,Davis and Sons,dentistry,75,8
-Dental Hygienist Placement,Riley-Ellis,nutrition,77,4
-Physician Opportunity,Franklin Inc,nutrition,88,6
-Dental Hygienist Placement,"Watkins, Rivera and Wagner",physiotherapy,85,6
-Registered Nurse Internship,"Benitez, Oconnell and Villanueva",nutrition,90,8
-Pharmacist Placement,White LLC,dentistry,95,9
-Radiologic Technologist Internship,Ware PLC,dentistry,89,10
-Medical Assistant Opportunity,"Howe, Lopez and Underwood",physiotherapy,78,5
-Physical Therapist Placement,"Odonnell, Garner and Spencer",nutrition,91,6
-Medical Assistant Opportunity,Hudson and Sons,nutrition,76,6
-Surgeon Opportunity,Moore-Henderson,nutrition,95,6
-Physician Opportunity,"Brown, Martinez and Wiley",nursing,88,8
-Physical Therapist Placement,"Haney, Rodriguez and Kennedy",physiotherapy,91,3
-Registered Nurse Internship,Smith-Booth,nursing,92,8
-Medical Assistant Opportunity,Petersen Group,surgery,72,7
+Title,Company,Field,MinScore,Positions
+Dental Hygienist Placement,"Strickland, Coleman and Waters",dentistry,83,4
+Physician Internship,Roth-Martinez,dentistry,95,7
+Radiologic Technologist Placement,Olsen Ltd,immunology,72,5
+Radiologic Technologist Placement,Barrett PLC,surgery,85,4
+Physician Internship,"Hernandez, James and Jimenez",nutrition,90,4
+Physical Therapist Internship,Ferguson-Decker,nursing,88,3
+Registered Nurse Placement,"Turner, Holt and Pace",surgery,89,10
+Medical Assistant Internship,"Lee, Baldwin and Blackwell",physiotherapy,81,7
+Registered Nurse Placement,"Riley, Graham and Kelly",nutrition,82,9
+Emergency Medical Technician (EMT) Internship,Patrick-Johnson,nursing,83,3
+Medical Assistant Internship,Tran PLC,immunology,79,9
+Pharmacist Placement,Chapman-Ross,dentistry,71,4
+Emergency Medical Technician (EMT) Internship,"Rice, Hernandez and Haynes",nutrition,72,10
+Pharmacist Placement,Miles-Davis,nutrition,92,9
+Medical Assistant Internship,Watson-Black,surgery,88,4
+Radiologic Technologist Placement,"Welch, Huynh and Lewis",surgery,77,4
+Surgeon Placement,Edwards Group,physiotherapy,94,9
+Physician Internship,Warren Inc,nursing,75,6
+Medical Laboratory Technician Opportunity,Brown and Sons,surgery,93,4
+Pharmacist Placement,"Villegas, Robles and Williams",physiotherapy,91,5
+Surgeon Placement,Hall-Walker,surgery,88,9
+Registered Nurse Placement,Boone-Garcia,nutrition,75,4
+Dental Hygienist Placement,"Rodriguez, Phillips and Mckee",nursing,77,6
+Emergency Medical Technician (EMT) Internship,Ruiz-Green,nursing,88,10
+Radiologic Technologist Placement,"Lee, Jones and Molina",dentistry,82,4
+Radiologic Technologist Placement,Schneider-Page,dentistry,83,3
+Medical Laboratory Technician Opportunity,White-Pierce,nursing,89,8
+Emergency Medical Technician (EMT) Internship,Hernandez-Lynn,surgery,80,9
+Radiologic Technologist Placement,"Davis, Reed and Allen",surgery,82,8
+Emergency Medical Technician (EMT) Internship,Page LLC,nursing,78,4
+Physical Therapist Internship,Peterson-Mcguire,immunology,82,8
+Registered Nurse Placement,Johnson Group,dentistry,75,5
+Emergency Medical Technician (EMT) Internship,Ramirez-Hart,surgery,89,10
+Physical Therapist Internship,Brown-Dean,surgery,88,10
+Surgeon Placement,Nixon-Graham,physiotherapy,84,8
+Dental Hygienist Placement,"Burke, Beard and Velez",dentistry,72,6
+Pharmacist Placement,Bradley Group,dentistry,95,8
+Physical Therapist Internship,Reyes Inc,dentistry,80,4
+Dental Hygienist Placement,"Brooks, Franklin and Horton",nutrition,73,5
+Physician Internship,Hunter Ltd,nutrition,91,7
+Surgeon Placement,Ortiz Group,surgery,89,4
+Registered Nurse Placement,"Roberts, Johnson and Bailey",surgery,88,10
+Radiologic Technologist Placement,Wells Inc,immunology,78,7
+Radiologic Technologist Placement,Rodriguez and Sons,nutrition,79,7
+Dental Hygienist Placement,Burns LLC,nursing,93,5
+Pharmacist Placement,Rivera-Warren,nursing,73,8
+Medical Laboratory Technician Opportunity,Wood PLC,surgery,87,3
+Medical Laboratory Technician Opportunity,Williams Inc,nutrition,85,8
+Surgeon Placement,Farmer PLC,nursing,84,5
+Registered Nurse Placement,Patterson and Sons,nursing,95,5
+Physical Therapist Internship,"Abbott, Young and Vazquez",nutrition,86,4
+Surgeon Placement,Coleman-Mann,surgery,92,7
+Emergency Medical Technician (EMT) Internship,Garcia-Thornton,physiotherapy,70,10
+Surgeon Placement,Mcclure-Graham,dentistry,92,6
+Radiologic Technologist Placement,"Madden, Campbell and Smith",physiotherapy,89,9
+Registered Nurse Placement,"Steele, Pham and Brown",nutrition,94,5
+Radiologic Technologist Placement,"Olsen, Powell and White",nursing,91,3
+Medical Laboratory Technician Opportunity,Scott PLC,nursing,88,5
+Medical Assistant Internship,Fisher LLC,immunology,87,8
+Physician Internship,Hansen-Gonzalez,nutrition,89,3
+Radiologic Technologist Placement,Trevino Inc,surgery,76,9
+Physician Internship,"Pacheco, Charles and Garner",surgery,75,7
+Physical Therapist Internship,"Thomas, Thompson and Buckley",nutrition,88,5
+Registered Nurse Placement,"Salas, Ramirez and Schroeder",dentistry,77,9
+Registered Nurse Placement,Moore-Wade,surgery,90,8
+Emergency Medical Technician (EMT) Internship,Long-Ruiz,physiotherapy,91,10
+Medical Laboratory Technician Opportunity,"Baldwin, Vance and Lopez",nutrition,92,9
+Dental Hygienist Placement,Chavez-Lang,nursing,84,3
+Dental Hygienist Placement,Cochran Ltd,physiotherapy,93,5
+Physical Therapist Internship,Parrish-Woods,physiotherapy,92,5
+Pharmacist Placement,Henderson-James,immunology,77,6
+Physician Internship,"Martinez, Romero and Hicks",nursing,95,7
+Dental Hygienist Placement,Lane-King,immunology,79,9
+Pharmacist Placement,"Barber, Miranda and Nguyen",physiotherapy,83,5
+Medical Assistant Internship,"Mitchell, Lawson and Reed",physiotherapy,72,9
+Medical Assistant Internship,Giles-Brown,nursing,95,3
+Registered Nurse Placement,Sanders Inc,immunology,70,5
+Dental Hygienist Placement,Lee-Fox,physiotherapy,75,3
+Registered Nurse Placement,Cardenas Ltd,dentistry,89,10
+Emergency Medical Technician (EMT) Internship,Fox PLC,surgery,77,4
+Registered Nurse Placement,Huang-Mitchell,nutrition,77,4
+Surgeon Placement,Carr Ltd,nutrition,92,3
+Registered Nurse Placement,"Fletcher, Nichols and Fox",physiotherapy,75,6
+Dental Hygienist Placement,Soto Group,surgery,70,7
+Physician Internship,Weber LLC,nursing,73,10
+Surgeon Placement,"Scott, Cruz and Smith",nursing,92,6
+Pharmacist Placement,Nelson-Johnston,immunology,71,7
+Registered Nurse Placement,Collins-Warren,nursing,94,5
+Medical Laboratory Technician Opportunity,Roy-Wallace,dentistry,91,4
+Emergency Medical Technician (EMT) Internship,Jimenez-Woods,surgery,92,5
+Emergency Medical Technician (EMT) Internship,Ramirez Inc,nutrition,81,4
+Physician Internship,Knight-Wade,nutrition,87,5
+Emergency Medical Technician (EMT) Internship,Anderson-Yoder,nursing,72,10
+Dental Hygienist Placement,Brown LLC,surgery,89,6
+Radiologic Technologist Placement,Wilcox-Kelly,nursing,90,5
+Pharmacist Placement,"Huff, Rice and Callahan",immunology,73,10
+Surgeon Placement,"Scott, Rodriguez and Benton",dentistry,79,6
+Dental Hygienist Placement,Rojas-White,nursing,77,9
+Pharmacist Placement,Strickland-Hunter,surgery,88,9
+Pharmacist Placement,"Ayers, Barker and Thomas",nutrition,77,5
+Pharmacist Placement,Cook-Boyer,nursing,88,6
+Surgeon Placement,Moss LLC,nursing,75,4
+Medical Laboratory Technician Opportunity,Jones Inc,dentistry,95,4
+Physical Therapist Internship,"Rose, Smith and Gonzales",surgery,72,3
+Radiologic Technologist Placement,Maxwell-Mercer,immunology,81,5
+Medical Laboratory Technician Opportunity,"Rhodes, Torres and Berry",dentistry,73,9
+Dental Hygienist Placement,Case and Sons,nursing,76,10
+Registered Nurse Placement,Valentine Group,dentistry,91,5
+Radiologic Technologist Placement,Davis LLC,nursing,70,3
+Medical Assistant Internship,Perry-Leonard,physiotherapy,90,7
+Pharmacist Placement,"Ochoa, Bowman and Oconnor",immunology,76,10
+Medical Laboratory Technician Opportunity,Watson PLC,dentistry,76,8
+Surgeon Placement,"Wallace, Irwin and Edwards",nutrition,72,8
+Radiologic Technologist Placement,"Aguirre, Clark and George",nutrition,73,6
+Medical Laboratory Technician Opportunity,Cameron PLC,surgery,90,8
+Physical Therapist Internship,Watson-Wilson,surgery,71,4
+Registered Nurse Placement,Craig PLC,nursing,81,10
+Physical Therapist Internship,Stevenson-Brooks,physiotherapy,71,8
+Pharmacist Placement,Mcdaniel LLC,surgery,87,9
+Dental Hygienist Placement,Aguirre-Miller,nutrition,85,3
+Pharmacist Placement,Pruitt-Greene,physiotherapy,80,6
+Physical Therapist Internship,Clark PLC,nursing,72,7
+Medical Laboratory Technician Opportunity,Gomez Group,immunology,89,6
+Radiologic Technologist Placement,"Hill, Jones and Velasquez",nursing,70,5
+Medical Assistant Internship,Cooper-Yang,immunology,84,6
+Physician Internship,Acevedo LLC,dentistry,77,5
+Medical Laboratory Technician Opportunity,Gonzalez-Hart,nutrition,79,3
+Pharmacist Placement,"Williams, Turner and Hood",dentistry,91,9
+Surgeon Placement,Yang and Sons,nursing,75,7
+Dental Hygienist Placement,"Fernandez, Flores and Cervantes",immunology,93,5
+Pharmacist Placement,"Wilson, Perez and Bailey",physiotherapy,86,3
+Physical Therapist Internship,Berry-West,dentistry,76,10
+Registered Nurse Placement,"Salazar, Moore and Gomez",nursing,83,7
+Surgeon Placement,"Blair, Hill and Thompson",surgery,73,6
+Physician Internship,"Weaver, Mckinney and Charles",dentistry,92,7
+Medical Assistant Internship,Wilson-Fox,dentistry,74,4
+Physician Internship,Hurley PLC,dentistry,90,8
+Medical Laboratory Technician Opportunity,Frye-Campbell,dentistry,85,10
+Registered Nurse Placement,George LLC,immunology,85,8
+Registered Nurse Placement,Jones-Williamson,physiotherapy,73,9
+Dental Hygienist Placement,Wilson-Estes,nutrition,90,3
+Medical Assistant Internship,"Koch, Jackson and Wilcox",dentistry,79,10
+Surgeon Placement,"Jones, Hernandez and Dougherty",nutrition,91,3
+Registered Nurse Placement,"Johnston, Hernandez and Lopez",dentistry,84,10
+Medical Assistant Internship,Johnson-Phillips,nutrition,86,5
+Medical Laboratory Technician Opportunity,Rogers-Simmons,physiotherapy,70,10
+Surgeon Placement,Jenkins PLC,nutrition,73,3
+Surgeon Placement,Coleman LLC,immunology,90,3
+Medical Assistant Internship,White-Berry,physiotherapy,76,3
+Registered Nurse Placement,Brown-Lara,nutrition,83,5
+Surgeon Placement,Henry Ltd,dentistry,73,4
+Emergency Medical Technician (EMT) Internship,"Costa, Martin and Clark",physiotherapy,76,7
+Registered Nurse Placement,Spence Ltd,surgery,92,7
+Pharmacist Placement,"Meadows, Martinez and Beck",nursing,79,9
+Medical Assistant Internship,Wilson-Christensen,nursing,88,8
+Physical Therapist Internship,"Ortega, Figueroa and Taylor",immunology,90,10
+Medical Laboratory Technician Opportunity,Hill PLC,nutrition,91,4
+Pharmacist Placement,Tucker LLC,immunology,88,10
+Registered Nurse Placement,Reed Group,nursing,86,5
+Radiologic Technologist Placement,Vazquez-Valentine,physiotherapy,79,5
+Radiologic Technologist Placement,Heath-Duffy,physiotherapy,86,7
+Medical Laboratory Technician Opportunity,Mitchell and Sons,nutrition,80,4
+Physician Internship,Williams and Sons,nursing,86,10
+Physician Internship,Greer-Harrington,dentistry,76,10
+Registered Nurse Placement,Mclean Group,dentistry,81,3
+Registered Nurse Placement,Ramirez PLC,nutrition,81,10
+Medical Laboratory Technician Opportunity,Garcia-Watson,physiotherapy,88,7
+Radiologic Technologist Placement,"Welch, Hahn and Olson",nutrition,86,7
+Physical Therapist Internship,Wilson-Williams,surgery,73,3
+Medical Laboratory Technician Opportunity,Miller and Sons,nursing,74,8
+Medical Assistant Internship,"Garcia, Taylor and Phillips",nursing,74,5
+Physician Internship,"Vazquez, Brady and Medina",nursing,85,9
+Emergency Medical Technician (EMT) Internship,"Nicholson, Ramirez and Wheeler",immunology,85,3
+Medical Laboratory Technician Opportunity,Martinez PLC,immunology,80,6
+Surgeon Placement,Freeman LLC,nutrition,77,7
+Radiologic Technologist Placement,"West, Burns and Johnson",dentistry,71,4
+Pharmacist Placement,Richardson Ltd,surgery,74,5
+Physical Therapist Internship,"Johnson, Bass and Gomez",surgery,78,6
+Physician Internship,Baird and Sons,physiotherapy,84,6
+Dental Hygienist Placement,Obrien-Powell,physiotherapy,90,3
+Pharmacist Placement,"Lopez, Welch and Oconnor",nutrition,76,3
+Medical Assistant Internship,Campbell-Elliott,surgery,83,4
+Physician Internship,Reyes-Carter,surgery,88,9
+Physician Internship,Butler-Baker,nursing,83,10
+Physical Therapist Internship,"Dyer, Weber and White",dentistry,70,8
+Registered Nurse Placement,"Short, Patton and Bryan",physiotherapy,79,6
+Registered Nurse Placement,"Castillo, Hayden and Henry",nutrition,73,4
+Registered Nurse Placement,Collins-Garza,surgery,72,3
+Physician Internship,Robinson Ltd,nutrition,80,10
+Registered Nurse Placement,"Jenkins, Mccarthy and Evans",immunology,87,3
+Radiologic Technologist Placement,Griffin and Sons,nutrition,88,5
+Emergency Medical Technician (EMT) Internship,Wilkinson Ltd,physiotherapy,93,4
+Physical Therapist Internship,"Hernandez, Banks and Jackson",surgery,79,10
+Pharmacist Placement,Scott LLC,dentistry,77,8
+Physician Internship,Hobbs-White,nutrition,92,7
+Physician Internship,Smith-Oneill,dentistry,92,7
+Physical Therapist Internship,Gallegos and Sons,immunology,95,6
+Registered Nurse Placement,Ortega-Kramer,nutrition,77,8
+Radiologic Technologist Placement,Farley Inc,dentistry,87,9
+Medical Assistant Internship,Guerrero-Rodriguez,nutrition,88,7
+Radiologic Technologist Placement,"Nixon, Smith and Leon",nutrition,84,9
+Dental Hygienist Placement,"White, Francis and Patterson",dentistry,88,4
+Physical Therapist Internship,Sandoval-Beard,dentistry,74,10
+Emergency Medical Technician (EMT) Internship,Hess PLC,nursing,70,6
+Medical Assistant Internship,Perez-Johnson,immunology,76,9
+Surgeon Placement,"Hoffman, Wells and Brown",surgery,93,3
+Physician Internship,"Mitchell, Young and Mooney",physiotherapy,90,10
+Registered Nurse Placement,"Clarke, Vasquez and Pierce",surgery,86,6
+Radiologic Technologist Placement,Michael and Sons,dentistry,77,10
+Emergency Medical Technician (EMT) Internship,Medina PLC,immunology,87,5
+Radiologic Technologist Placement,"Ortiz, Daniels and Harrell",physiotherapy,91,6
+Physical Therapist Internship,"Brewer, Jenkins and Holmes",surgery,84,3
+Physician Internship,"Mccoy, Bell and Gomez",physiotherapy,92,8
+Physical Therapist Internship,"Avila, Cordova and Collins",immunology,72,6
+Physician Internship,Vargas Inc,surgery,93,10
+Physician Internship,"Scott, Maxwell and Robinson",physiotherapy,93,8
+Physician Internship,"Hernandez, Navarro and Garcia",nursing,84,4
+Medical Laboratory Technician Opportunity,Edwards Group,nutrition,73,9
+Medical Assistant Internship,Oconnor and Sons,immunology,71,8
+Emergency Medical Technician (EMT) Internship,Harris-Lewis,immunology,92,4
+Medical Laboratory Technician Opportunity,Smith LLC,surgery,74,9
+Medical Assistant Internship,Miller and Sons,nursing,93,3
+Physician Internship,"Huff, Barron and Pugh",immunology,89,8
+Emergency Medical Technician (EMT) Internship,Perez Group,immunology,70,5
+Emergency Medical Technician (EMT) Internship,Mccullough Ltd,dentistry,82,8
+Physical Therapist Internship,Kline-Morris,surgery,73,5
+Registered Nurse Placement,Gamble Inc,physiotherapy,73,6
+Physician Internship,Wolf and Sons,nutrition,74,7
+Pharmacist Placement,King-Taylor,dentistry,70,8
+Surgeon Placement,Heath-Greene,nutrition,80,5
+Registered Nurse Placement,Kelly-Lynch,nursing,74,6
+Dental Hygienist Placement,"Howell, Young and Douglas",immunology,87,3
+Physical Therapist Internship,"Brown, Humphrey and Price",nutrition,78,7
+Pharmacist Placement,Esparza LLC,surgery,75,3
+Physical Therapist Internship,Scott and Sons,nursing,88,3
+Radiologic Technologist Placement,Morgan-Burgess,physiotherapy,85,9
+Medical Laboratory Technician Opportunity,Osborne-Fitzpatrick,immunology,88,7
+Dental Hygienist Placement,Cantu-King,physiotherapy,92,5
+Radiologic Technologist Placement,"Burns, Carrillo and Carson",surgery,72,8
+Dental Hygienist Placement,Harrison-Ruiz,physiotherapy,87,4
+Pharmacist Placement,Morris PLC,immunology,90,5
+Registered Nurse Placement,Holloway-Schneider,nursing,82,3
+Emergency Medical Technician (EMT) Internship,"Wright, Peterson and Stanton",nursing,83,6
+Radiologic Technologist Placement,Heath PLC,dentistry,80,9
+Dental Hygienist Placement,Salinas and Sons,physiotherapy,77,9
+Pharmacist Placement,"Jones, Ortiz and Deleon",physiotherapy,72,7
+Registered Nurse Placement,"Sanchez, Morales and Payne",surgery,79,3
+Physical Therapist Internship,Hamilton Group,nutrition,91,4
+Emergency Medical Technician (EMT) Internship,"Adams, Davenport and Burns",surgery,76,7
+Physician Internship,Nunez Ltd,nutrition,73,3
+Physician Internship,"Harvey, Jimenez and Wolfe",surgery,77,8
+Surgeon Placement,Tucker Ltd,nursing,77,10
+Surgeon Placement,Vazquez Ltd,nutrition,87,9
+Physical Therapist Internship,"Mathis, Gamble and Garcia",nutrition,95,5
+Registered Nurse Placement,Perez-Hernandez,physiotherapy,80,3
+Medical Laboratory Technician Opportunity,Rojas Inc,dentistry,93,4
+Registered Nurse Placement,"Yang, Acevedo and Rodriguez",physiotherapy,80,10
+Radiologic Technologist Placement,"Krause, Cox and Reed",nutrition,71,6
+Emergency Medical Technician (EMT) Internship,"Brown, Harris and Petersen",physiotherapy,76,10
+Pharmacist Placement,"Hess, Jones and Rosales",surgery,84,7
+Medical Assistant Internship,Mccoy PLC,surgery,76,4
+Medical Assistant Internship,"Jordan, Chen and Terrell",dentistry,76,9
+Medical Assistant Internship,Berg and Sons,immunology,76,7
+Physical Therapist Internship,Green-Bell,nursing,86,4
+Physician Internship,Thompson-Lopez,immunology,80,9
+Physical Therapist Internship,Collins Ltd,physiotherapy,78,6
+Surgeon Placement,Waters-Malone,surgery,92,5
+Physician Internship,Carlson-Lyons,dentistry,76,7
+Medical Assistant Internship,"Burke, Harris and Murphy",dentistry,71,3
+Medical Assistant Internship,Savage-Pineda,physiotherapy,84,6
+Physician Internship,Huber and Sons,physiotherapy,92,6
+Physical Therapist Internship,Johnson PLC,nursing,82,3
+Radiologic Technologist Placement,Flynn LLC,physiotherapy,89,6
+Medical Assistant Internship,"Richards, Torres and Williams",immunology,86,4
+Physical Therapist Internship,Turner-Santos,immunology,78,7
+Registered Nurse Placement,Wang LLC,physiotherapy,76,7
+Radiologic Technologist Placement,Collier Group,nursing,71,6
+Radiologic Technologist Placement,Martinez-Wood,surgery,81,4
+Pharmacist Placement,Thompson-May,physiotherapy,95,8
+Pharmacist Placement,Browning and Sons,nursing,85,4
+Physician Internship,Reynolds LLC,nursing,93,4
+Medical Assistant Internship,Mahoney Inc,physiotherapy,93,4
+Medical Laboratory Technician Opportunity,"Lopez, Brown and Weeks",nutrition,78,8
+Surgeon Placement,Robinson Ltd,surgery,71,6
+Pharmacist Placement,Johnson Ltd,physiotherapy,83,9
+Radiologic Technologist Placement,"Mccoy, Jefferson and Mcconnell",nursing,82,10
+Registered Nurse Placement,"Johnston, Merritt and Ellis",physiotherapy,79,3
+Radiologic Technologist Placement,"Gomez, Davis and Walters",physiotherapy,83,4
+Physician Internship,Gonzales-Norris,dentistry,90,5
+Emergency Medical Technician (EMT) Internship,"Whitney, Willis and Montgomery",surgery,95,9
+Radiologic Technologist Placement,"Gilbert, Hudson and Martinez",nutrition,92,5
+Physician Internship,Hughes-Reese,immunology,91,5
+Emergency Medical Technician (EMT) Internship,Santos LLC,nutrition,75,10
+Medical Laboratory Technician Opportunity,"Norton, Thompson and Cruz",surgery,84,7
+Radiologic Technologist Placement,Case Ltd,nutrition,70,7
+Physical Therapist Internship,"Moore, Jones and Bowman",nutrition,91,10
+Radiologic Technologist Placement,"Owens, Good and Estrada",nursing,71,7
+Surgeon Placement,Mcconnell Group,surgery,94,6
+Physical Therapist Internship,Cabrera and Sons,nursing,79,7
+Pharmacist Placement,Brown-Hansen,dentistry,89,7
+Dental Hygienist Placement,"Stark, Mclaughlin and Schmitt",dentistry,76,6
+Dental Hygienist Placement,Green Group,surgery,85,8
+Physical Therapist Internship,Thompson-Russo,dentistry,84,3
+Radiologic Technologist Placement,"Rosales, Bell and Hoffman",dentistry,82,10
+Emergency Medical Technician (EMT) Internship,"Ward, Fisher and Thompson",surgery,83,10
+Pharmacist Placement,Roman Ltd,nutrition,92,7
+Registered Nurse Placement,Lucero-Mcknight,nursing,80,5
+Dental Hygienist Placement,Andrews-Hernandez,nutrition,95,9
+Medical Laboratory Technician Opportunity,"Fletcher, Donovan and Cox",physiotherapy,76,6
+Physical Therapist Internship,Tanner-Cummings,immunology,72,9
+Medical Laboratory Technician Opportunity,Suarez Group,nutrition,86,3
+Medical Laboratory Technician Opportunity,Zimmerman-Smith,nursing,86,6
+Medical Assistant Internship,Williams-Anderson,nursing,90,8
+Radiologic Technologist Placement,Walker and Sons,surgery,81,6
+Pharmacist Placement,"Johnson, Olsen and Michael",immunology,84,5
+Emergency Medical Technician (EMT) Internship,Bates-Reese,physiotherapy,76,9
+Medical Laboratory Technician Opportunity,"Baker, Wilson and Morales",nutrition,72,9
+Medical Assistant Internship,Sullivan-Carter,nutrition,70,6
+Medical Assistant Internship,Miller-Harris,surgery,83,8
+Dental Hygienist Placement,Frey LLC,physiotherapy,75,7
+Registered Nurse Placement,Griffin-Eaton,nutrition,80,6
+Physician Internship,Nguyen and Sons,nutrition,89,10
+Physician Internship,"Richard, Mclaughlin and Carpenter",nursing,84,7
+Medical Laboratory Technician Opportunity,"Waters, Clark and Kim",surgery,91,7
+Pharmacist Placement,Williams LLC,nutrition,73,7
+Physical Therapist Internship,Burgess-Johnson,dentistry,89,10
+Emergency Medical Technician (EMT) Internship,Barnett Inc,surgery,79,9
+Surgeon Placement,Ballard-Cooper,dentistry,71,7
+Medical Assistant Internship,"Mack, Bentley and Hood",surgery,75,3
+Registered Nurse Placement,"Turner, Stafford and Gibson",surgery,80,6
+Medical Assistant Internship,"Roy, Silva and Bennett",nutrition,72,7
+Radiologic Technologist Placement,Short-Hickman,nursing,78,9
+Physician Internship,Harris Inc,nutrition,81,6
+Surgeon Placement,"Fernandez, Medina and Willis",nutrition,81,10
+Pharmacist Placement,Sanchez-Pena,physiotherapy,79,7
+Radiologic Technologist Placement,Burch-Sherman,dentistry,75,4
+Physical Therapist Internship,Norton-White,physiotherapy,87,8
+Physical Therapist Internship,Ramos LLC,physiotherapy,74,4
+Emergency Medical Technician (EMT) Internship,Freeman-Martinez,nursing,79,4
+Physical Therapist Internship,"Burke, Wallace and Rodriguez",nutrition,92,10
+Surgeon Placement,"Richardson, Young and Ramirez",immunology,91,6
+Emergency Medical Technician (EMT) Internship,Smith-Carter,immunology,89,3
+Radiologic Technologist Placement,"Hester, Carr and Nichols",immunology,84,5
+Emergency Medical Technician (EMT) Internship,"Chang, Young and Goodman",dentistry,76,3
+Surgeon Placement,"Walsh, Ellis and Reynolds",immunology,85,7
+Emergency Medical Technician (EMT) Internship,Hall-Ibarra,physiotherapy,95,5
+Physical Therapist Internship,Jones-Smith,dentistry,75,10
+Pharmacist Placement,Robertson-Taylor,physiotherapy,87,3
+Emergency Medical Technician (EMT) Internship,"Hammond, Thomas and Powers",dentistry,88,4
+Physical Therapist Internship,Williams Ltd,nutrition,91,3
+Medical Assistant Internship,"Glover, Mathews and Adkins",dentistry,89,3
+Emergency Medical Technician (EMT) Internship,Nelson-Turner,surgery,73,9
+Medical Assistant Internship,"Edwards, Sullivan and Case",nursing,81,3
+Radiologic Technologist Placement,Rogers Ltd,physiotherapy,79,7
+Dental Hygienist Placement,Perez and Sons,nutrition,88,5
+Dental Hygienist Placement,Wright Group,physiotherapy,81,10
+Radiologic Technologist Placement,"Martinez, Phillips and Hayes",dentistry,89,7
+Emergency Medical Technician (EMT) Internship,"Hayden, Anderson and Stevens",surgery,79,3
+Surgeon Placement,Johnson-Pierce,surgery,87,6
+Emergency Medical Technician (EMT) Internship,"Jordan, Rodriguez and Chapman",immunology,94,4
+Medical Assistant Internship,Baker LLC,dentistry,74,7
+Emergency Medical Technician (EMT) Internship,Bean-Garcia,physiotherapy,81,7
+Medical Assistant Internship,Pace and Sons,immunology,90,4
+Medical Laboratory Technician Opportunity,Glass Group,physiotherapy,88,4
+Surgeon Placement,Kaufman Group,dentistry,84,4
+Physical Therapist Internship,"Johnson, Bentley and Malone",physiotherapy,73,7
+Dental Hygienist Placement,Boyle Ltd,surgery,74,6
+Emergency Medical Technician (EMT) Internship,"Webster, Simpson and Thompson",nursing,81,10
+Medical Assistant Internship,Hooper-Harris,nursing,89,7
+Emergency Medical Technician (EMT) Internship,"Tanner, Smith and Parks",surgery,83,8
+Medical Assistant Internship,"Galvan, Marshall and Whitaker",surgery,72,9
+Dental Hygienist Placement,Dominguez-Peters,physiotherapy,84,5
+Pharmacist Placement,"Rice, Stone and Williams",dentistry,88,4
+Pharmacist Placement,"Brown, Hickman and Sullivan",immunology,93,10
+Radiologic Technologist Placement,"Mendoza, Pope and Baxter",physiotherapy,83,8
+Physician Internship,Sosa-Williams,physiotherapy,80,3
+Pharmacist Placement,"Green, Lowery and Pittman",physiotherapy,91,5
+Registered Nurse Placement,Pace-Hicks,nutrition,79,5
+Dental Hygienist Placement,"Reed, Rice and Greene",nursing,79,4
+Registered Nurse Placement,Boyer-Wells,nursing,73,9
+Dental Hygienist Placement,Cole-Harris,nursing,72,9
+Surgeon Placement,Rojas PLC,immunology,79,6
+Dental Hygienist Placement,Cummings PLC,nursing,70,3
+Medical Laboratory Technician Opportunity,Oliver-Harris,dentistry,73,8
+Radiologic Technologist Placement,Rosales-Robinson,physiotherapy,81,3
+Surgeon Placement,Jackson-Cox,dentistry,90,9
+Surgeon Placement,Bailey Inc,nursing,86,10
+Emergency Medical Technician (EMT) Internship,Williamson Ltd,nursing,89,6
+Dental Hygienist Placement,"Rose, English and Miller",nursing,90,9
+Pharmacist Placement,Mills-Blackburn,dentistry,73,9
+Physician Internship,Watson-Pratt,immunology,86,6
+Physical Therapist Internship,"Pierce, David and Castaneda",surgery,84,7
+Medical Laboratory Technician Opportunity,"Carter, Brewer and Valdez",nursing,80,10
+Surgeon Placement,Miller LLC,physiotherapy,74,3
+Physician Internship,Rhodes-Hubbard,surgery,70,7
+Registered Nurse Placement,Hill-Mitchell,nutrition,91,9
+Pharmacist Placement,Reid LLC,physiotherapy,77,9
+Emergency Medical Technician (EMT) Internship,James-Meadows,physiotherapy,84,6
+Medical Assistant Internship,Perry Ltd,dentistry,81,7
+Surgeon Placement,Vaughan-Williams,nutrition,92,10
+Registered Nurse Placement,"Gonzalez, Ware and Scott",physiotherapy,78,9
+Medical Assistant Internship,Lewis-Johnson,surgery,70,10
+Medical Laboratory Technician Opportunity,"Cunningham, Crawford and Washington",physiotherapy,87,7
+Emergency Medical Technician (EMT) Internship,Contreras-Porter,nutrition,94,9
+Physical Therapist Internship,Brown-Wood,nutrition,70,10
+Radiologic Technologist Placement,"Gordon, Hester and Fitzgerald",immunology,84,9
+Radiologic Technologist Placement,Noble Inc,surgery,75,3
+Physical Therapist Internship,Mccarthy Group,dentistry,92,5
+Pharmacist Placement,Foster-Gonzales,physiotherapy,81,10
+Physician Internship,Alexander Inc,immunology,91,8
+Emergency Medical Technician (EMT) Internship,Walker Group,surgery,82,6
+Dental Hygienist Placement,Mccarthy and Sons,nursing,72,3
+Radiologic Technologist Placement,"Gaines, Sherman and Hill",nutrition,84,6
+Radiologic Technologist Placement,"Bailey, Jordan and Pitts",immunology,77,3
+Registered Nurse Placement,Barton-Wright,nursing,93,8
+Registered Nurse Placement,Harrison-King,surgery,79,7
+Surgeon Placement,"Huang, Anderson and Vincent",nutrition,83,6
+Medical Laboratory Technician Opportunity,"Jenkins, Campos and Lawrence",immunology,85,3
+Radiologic Technologist Placement,Williams PLC,nursing,94,4
+Dental Hygienist Placement,Brown-Jackson,surgery,74,7
+Radiologic Technologist Placement,"Lawson, Chavez and Trevino",dentistry,83,8
+Medical Laboratory Technician Opportunity,Rivera-Rodriguez,dentistry,76,5
+Registered Nurse Placement,Simmons PLC,dentistry,71,7
+Physician Internship,"Davis, Nicholson and Jackson",nursing,94,9
+Registered Nurse Placement,Austin LLC,surgery,92,6
+Dental Hygienist Placement,"Jordan, Navarro and Lopez",dentistry,88,9
+Medical Assistant Internship,Walker-Butler,immunology,94,7
+Physical Therapist Internship,"Hall, Christian and Leonard",dentistry,79,7
+Medical Laboratory Technician Opportunity,Weaver and Sons,surgery,81,6
+Surgeon Placement,Herring Ltd,immunology,93,9
+Registered Nurse Placement,Mejia PLC,nutrition,94,8
+Dental Hygienist Placement,Nichols Inc,immunology,94,5
+Dental Hygienist Placement,Garrison Ltd,nutrition,75,7
+Pharmacist Placement,"Montgomery, Morgan and Taylor",dentistry,70,3
+Physical Therapist Internship,Duncan Ltd,physiotherapy,80,7
+Physical Therapist Internship,Brown-Boyle,immunology,79,6
+Registered Nurse Placement,"Leon, Figueroa and Marshall",surgery,84,10
+Medical Assistant Internship,"Farmer, Nielsen and Russo",nursing,89,3
+Medical Laboratory Technician Opportunity,Johnson-Moore,surgery,74,5
+Physical Therapist Internship,Harris-White,surgery,81,9
+Physician Internship,Patrick-May,nutrition,79,7
+Medical Laboratory Technician Opportunity,Jordan-Rowe,physiotherapy,71,9
+Emergency Medical Technician (EMT) Internship,Rich and Sons,nursing,82,10
+Medical Laboratory Technician Opportunity,"Lewis, Deleon and Hardin",dentistry,95,6
+Dental Hygienist Placement,Thomas-Dominguez,immunology,93,9
+Registered Nurse Placement,Norton-Johnson,surgery,79,8
+Medical Laboratory Technician Opportunity,Brown Group,surgery,81,5
+Medical Laboratory Technician Opportunity,"Freeman, Mendoza and Davis",physiotherapy,75,10
+Physical Therapist Internship,"Boyd, Wilson and Hanson",nursing,77,4
+Dental Hygienist Placement,Robinson-Garza,nursing,73,8
+Radiologic Technologist Placement,Jones Group,immunology,95,5
+Medical Assistant Internship,Lucero LLC,physiotherapy,75,3
+Medical Laboratory Technician Opportunity,"Pearson, Maldonado and Henry",nutrition,78,7
+Radiologic Technologist Placement,"Pennington, Neal and Castillo",nursing,84,10
+Medical Laboratory Technician Opportunity,"Robinson, Goodwin and Mcdonald",surgery,73,9
+Physician Internship,Cain Group,immunology,86,4
+Medical Assistant Internship,"Walter, Lewis and English",nursing,80,7
+Physical Therapist Internship,Atkinson LLC,physiotherapy,75,8
+Registered Nurse Placement,"Gonzales, Harris and Jones",surgery,93,4
+Physician Internship,Hopkins Ltd,dentistry,70,6
+Radiologic Technologist Placement,Freeman-Hall,nutrition,80,8
+Medical Laboratory Technician Opportunity,George PLC,nursing,82,8
+Registered Nurse Placement,"Medina, Smith and Howard",immunology,87,8
+Registered Nurse Placement,Bradshaw LLC,dentistry,71,10
+Medical Laboratory Technician Opportunity,Lester Inc,dentistry,83,3
+Physician Internship,Preston Ltd,nursing,71,5
+Dental Hygienist Placement,"Woods, Odonnell and Moreno",nutrition,92,6
+Medical Assistant Internship,"Harmon, Duncan and Valenzuela",immunology,88,3
+Registered Nurse Placement,Pittman Inc,surgery,72,8
+Registered Nurse Placement,"Fisher, Lewis and Williamson",nursing,93,3
+Pharmacist Placement,"Goodwin, Yoder and James",nutrition,94,3
+Radiologic Technologist Placement,Carter-Hernandez,physiotherapy,86,4
+Registered Nurse Placement,Stewart-Harris,physiotherapy,75,4
+Radiologic Technologist Placement,"Johnson, Davila and King",dentistry,77,9
+Physical Therapist Internship,"Macdonald, Howard and White",nutrition,77,4
+Surgeon Placement,Martin and Sons,nutrition,78,4
+Surgeon Placement,"Martinez, Boone and Castaneda",physiotherapy,73,9
+Medical Assistant Internship,Barron PLC,physiotherapy,79,8
+Surgeon Placement,David and Sons,dentistry,80,7
+Physician Internship,"Cabrera, Martinez and Flowers",nutrition,78,7
+Pharmacist Placement,"Humphrey, Wilson and Shepherd",surgery,72,4
+Physician Internship,Hall LLC,dentistry,71,5
+Radiologic Technologist Placement,"Barnes, Barnes and Lopez",physiotherapy,88,6
+Radiologic Technologist Placement,Mann Ltd,surgery,74,3
+Emergency Medical Technician (EMT) Internship,"Palmer, Rivera and Martinez",surgery,75,5
+Physician Internship,"Anderson, Howe and Grant",physiotherapy,74,7
+Pharmacist Placement,"Smith, Sanchez and Sanchez",surgery,81,4
+Radiologic Technologist Placement,Miller-Stevens,dentistry,75,8
+Physician Internship,Gomez LLC,physiotherapy,85,7
+Physician Internship,"Howard, Young and Byrd",physiotherapy,82,4
+Radiologic Technologist Placement,Williams Ltd,immunology,83,10
+Physician Internship,"Ball, Flores and Bautista",immunology,74,6
+Medical Laboratory Technician Opportunity,Schwartz Group,nursing,85,8
+Physical Therapist Internship,"Anderson, Blake and Mcdonald",nutrition,82,6
+Physician Internship,Shaw-Roberts,nursing,93,4
+Physical Therapist Internship,"Lawrence, Stephenson and Ross",dentistry,82,6
+Registered Nurse Placement,Flores-Maynard,immunology,94,6
+Radiologic Technologist Placement,"Sanders, Herrera and Lopez",physiotherapy,83,4
+Medical Assistant Internship,"Mayer, Stein and Yoder",physiotherapy,90,8
+Surgeon Placement,Baker-Chavez,immunology,73,8

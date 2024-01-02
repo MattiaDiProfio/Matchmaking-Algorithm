@@ -63,7 +63,7 @@ if __name__ == "__main__":
             course = populator_data["candidates"]["degree"][random.randint(0, 100) % 15]
             score = random.randint(50, 100)
             experience = populator_data["candidates"]["experience"][random.randint(0, 100) % 7]
-            study_mode = ["online", "on-campus", None][random.randint(0, 100) % 3]
+            study_mode = ["online", "campus", None][random.randint(0, 100) % 3]
             study_pattern = ["PT", "FT", None][random.randint(0, 100) % 3]
 
             candidate = [ name, course, score, experience, study_mode, study_pattern ]
