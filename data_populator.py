@@ -23,7 +23,7 @@ medical_jobs = [ "Registered Nurse",
 populator_data = {
     "candidates" : {
         # Generate 2500 random full-names
-        "fullname" : [ fake.name() for _ in range(2500) ],
+        "fullname" : [ fake.name() for _ in range(1000) ],
         "degree" : [ 
             "Doctor of Medicine (M.D.)", 
             "Doctor of Osteopathic Medicine (D.O.)", 
@@ -46,7 +46,7 @@ populator_data = {
     "jobs" : {
         # Generate random placements titles 
         "title" : [ f"{position} {random.choice(suffixes)}" for position in medical_jobs ], 
-        "company" : [ fake.company() for _ in range(500)], 
+        "company" : [ fake.company() for _ in range(100)], 
         "field" : [ "surgery", "dentistry", "nursing", "nutrition", "physiotherapy", "immunology" ]
     }
 }
