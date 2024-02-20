@@ -1,7 +1,8 @@
 # SkillPilot - A candidate-to-job recommender system
 
-## Project Overview 
+To run the project, make sure you have a kerner installed which allows you to run Jupyter Notebooks on your machine. Also ensure you have all the packages imported throught the notebook installed.
 
+## Project Overview 
 The aim of this project is to explore a range of possible solutions capable of accurately matching candidates suitable for a particular job advertisement. I will proceed by conducting some exploratory data analysis on the (randomly generated) datasets, to then proceed with the implementation of common matchmaking algorithms as well as machine learning regression and classification techniques, and to conclude I will analyse the performance of each approach to select a suitable option to carry out the pairing procedure.
 The approaches considered for this project are the Gale-Shapley Algorithm, K-Nearest Neighbours, Linear Support Vectore Machines, the LambdaMART Algorithm, the Expectation Maximization Algorithm and finally Random Forests.
 
