@@ -1,12 +1,21 @@
-# SkillPilot - A candidate-to-job recommender system
+# SkillPilot - A candidate-to-job matchmaking system
 
-## Project Overview 
-The aim of this project is to explore a range of possible solutions capable of accurately matching candidates suitable for a particular job advertisement. I will proceed by conducting some exploratory data analysis on the (randomly generated) datasets, to then proceed with the implementation of common matchmaking algorithms as well as machine learning regression and classification techniques, and to conclude I will analyse the performance of each approach to select a suitable option to carry out the pairing procedure.
-The approaches considered for this project are the Gale-Shapley Algorithm, K-Nearest Neighbours, Linear Support Vectore Machines, the LambdaMART Algorithm, the Expectation Maximization Algorithm and finally Random Forests.
+## Project Overview
 
-## Running the Project 
-To run the project on your machine, simply clone this repository and ensure that you have conda installed. Open the notebook in an editor of your choice and press the 'Run All' button to execute the entire notebook. A quick **heads-up**, when running the "naive" version of the Gale-Shapley algorithm the notebook will take a couple of minutes since sets of up to 1000 candidates are going through the matching process, 
-also in the **Linear SVMs** section, the 3D scatterplot is not displayed if viewing the notebook on GitHub, so I highly recommend following the instructions in this section to apprieciate this project to its fullest.
+This project aims to serve as proof-of-concept for a system capable of finding an optimal arrangement of offers between a set of jobs and a set of candidates.
 
-## Author & Conclusions
-Mattia Di Profio
+The notebook attached serves as a documentation for the process undertaken to complete the task, and I suggest you follow the steps in the *Running instructions* section to gain a better understanding of the project. The main components include :
+
+- A data prep. and visualization section using libraries such as Pandas, Seaborn and Matplotlib.
+- A section dedicated to the design, implementation, and testing of a matchmaking algorithm inspired by the work of Gale-Shapley.
+- An exploratory section where several machine learning algorithms such as SVMs, KNNs, Decision Trees & Random Forests, and Logistic Regression are trained and tested for the task of classifying the algorithm's output based on the probability of a computed match being turned into a successfull job offer.
+- A conclusion section, where the matchmaking algorithm and SVM classifier are used in conjuction to compute and label job offers.
+
+## Running instructions
+
+To run the project :
+
+- Donwload the repository and make sure that you have Anaconda Navigator installed on your machine
+- Open the notebook in your editor of choice, and run each cell sequentially using the Cells > Run all option
+- Get yourself some popcorns and sit back : the notebook will take a while to fully run, especially when it comes to the *Performance & Metrics Evaluation* section.
+- If you encounter an error related to *ModuleNotFoudError* or similar, create a new cell and run the command ``` !pip install <package name here> ```
