@@ -1,4 +1,4 @@
-# SkillPilot - A candidate-to-job matchmaking system
+# A candidate-to-job matchmaking system
 
 ## Project Overview
 
